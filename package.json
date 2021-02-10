@@ -1,0 +1,33 @@
+{
+  "name": "hit-parade-redux",
+  "version": "1.0.0",
+  "description": "Refactor hit parade using react redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakodrazan/hit-parade-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vakodrazan/hit-parade-redux/issues"
+  },
+  "homepage": "https://github.com/vakodrazan/hit-parade-redux#readme",
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "react-modal": "^3.12.1",
+    "react-redux": "*",
+    "react-router-dom": "^5.2.0",
+    "redux": "*"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
